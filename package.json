@@ -2,16 +2,20 @@
   "name": "mini-program-cli",
   "version": "1.0.0",
   "description": "genegrate miniProgram template",
-  "main": "bin/cli.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lixianfeng1992/mini-program-cli.git"
   },
   "keywords": [
     "miniProgram",
     "cli"
   ],
   "bin": {
-    "mini-program-cli": "bin/cli"
+    "mini-program-cli": "index"
   },
   "author": "allenli",
   "license": "ISC",
