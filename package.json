@@ -1,5 +1,5 @@
 {
-  "name": "mini-program-cli",
+  "name": "generate-mini-program",
   "version": "1.0.0",
   "description": "genegrate miniProgram template",
   "main": "index.js",
@@ -17,7 +17,7 @@
   "bin": {
     "mini-program-cli": "index"
   },
-  "author": "allenli",
+  "author": "allen li",
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.4.1",
