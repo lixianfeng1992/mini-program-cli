@@ -1,0 +1,26 @@
+{
+  "name": "mini-program-cli",
+  "version": "1.0.0",
+  "description": "genegrate miniProgram template",
+  "main": "bin/cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "miniProgram",
+    "cli"
+  ],
+  "bin": {
+    "mini-program-cli": "bin/cli"
+  },
+  "author": "allenli",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.19.0",
+    "inquirer": "^6.2.0",
+    "lodash": "^4.17.11"
+  }
+}
